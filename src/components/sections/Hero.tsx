@@ -25,7 +25,7 @@ export function Hero({ messages }: { messages: Messages }) {
         priority
         fill
         sizes="100vw"
-        className="absolute inset-0 -z-20 object-cover object-[50%_18%] sm:object-[55%_22%] lg:object-[60%_center]"
+        className="absolute inset-0 -z-20 object-cover object-[50%_15%] sm:object-[55%_18%] lg:object-[60%_15%]"
       />
       <div
         aria-hidden="true"
